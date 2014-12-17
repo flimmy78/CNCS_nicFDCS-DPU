@@ -1,4 +1,4 @@
-CNCS_nicFDCS-DPU
+nicFDCS-DPU
 ================
 
 实时数据库与控制器的交互接口。
